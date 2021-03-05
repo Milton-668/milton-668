@@ -37,11 +37,6 @@ style="max- width:100%"></img>
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
 <img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-witdh:100%;"></a>
 
-<a href="mailto:miltonmjcp@gmail.com" target="_blank">
-<img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-witdh:100%;"></a>
-
-
-&nbsp;&nbsp; <a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
 
 
 <a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img height="30" width="40" src="https://i.imgur.com/yhJTPLs.png"  /></a>
