@@ -1,6 +1,6 @@
 ## Olá, sou Milton Jr 👋
 
-+ :heart:	 **Apaixonado por tecnologia**
++ :sparkling_heart:	**Apaixonado por tecnologia**
 + **Desenvolvedor Full Stack Web Java Jr**
 + **Cursando Sistemas de Informação 5° semestre**
 + **Atualmente participo do BootCamp Generation**
