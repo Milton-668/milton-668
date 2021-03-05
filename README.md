@@ -2,7 +2,9 @@
 
 ##Hard Skills 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="40" height="40"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="40"
+style="max- width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"
 style="max- width:100%"></img>
 
 <!--
