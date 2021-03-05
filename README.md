@@ -1,4 +1,4 @@
-## Olá, sou Milton Jr 👋
+## Olá, sou Milton Jr :octocat:
 
 + :sparkling_heart:	**Apaixonado por tecnologia**
 + :computer: **Desenvolvedor Full Stack Web Java Jr**
