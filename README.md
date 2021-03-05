@@ -36,11 +36,7 @@ style="max- width:100%"></img>
 ## **Contato**
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
 <img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-witdh:100%;"></a>
-&nbsp;&nbsp; <a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
-
-
-<a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img height="30" width="40" src="https://i.imgur.com/yhJTPLs.png"  /></a>
-
+<a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
 
 <!--
 **Milton-668/milton-668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
