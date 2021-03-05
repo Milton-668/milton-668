@@ -1,6 +1,9 @@
 ## Olá, sou Milton Jr 👋
 
-
++ Desenvolvedor Full Stack Web Java Jr
++ Estudante de Sistemas da Informação no 5°semestre
++ Atualmente participo do BootCamp Generation
+=====
 ### **Hard Skills** 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="40"
