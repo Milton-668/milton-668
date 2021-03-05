@@ -2,7 +2,7 @@
 
 + **Apaixonado por tecnologia**
 + **Desenvolvedor Full Stack Web Java Jr**
-+ **Graduando em Sistemas de Informação**
++ **Cursando Sistemas de Informação 5° semestre**
 + **Atualmente participo do BootCamp Generation**
 + **Apaixonado por tecnologia**
 -----------------------------------------------
