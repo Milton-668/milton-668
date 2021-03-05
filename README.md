@@ -30,7 +30,7 @@ style="max- width:100%"></img>
 ======================================================================
 ## **Contact**
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
-<img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-witdh:100%;"></a>
+<img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-witdh:100%;"></a>
 
 
 
