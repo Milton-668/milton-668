@@ -1,6 +1,7 @@
-### Hi there 👋
+## Olá 👋
 
-## **Hard Skills** 
+
+### **Hard Skills** 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="40"
 style="max- width:100%"></img>
@@ -27,11 +28,10 @@ style="max- width:100%"></img>
 <img src="https://www.choczynski.pl/assets/img/spring-boot-icon.svg" alt="SpringBoot" width="40" height="40"
 style="max- width:100%"></img>
 ======
-## **Contact**
+## **Contato**
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
 <img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-witdh:100%;"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
