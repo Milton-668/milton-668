@@ -6,6 +6,14 @@
 style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"
 style="max- width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="MySql" width="40" height="40"
+style="max- width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="MySql" width="40" height="40"
+style="max- width:100%"></img>
+
+
+
+
 
 <!--
 **Milton-668/milton-668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
