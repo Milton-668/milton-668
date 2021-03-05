@@ -10,6 +10,8 @@ style="max- width:100%"></img>
 style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"
 style="max- width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Git" width="40" height="40"
+style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"
 style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"
@@ -24,6 +26,8 @@ style="max- width:100%"></img>
 style="max- width:100%"></img>
 <img src="https://www.choczynski.pl/assets/img/spring-boot-icon.svg" alt="SpringBoot" width="40" height="40"
 style="max- width:100%"></img>
+
+
 
 
 
