@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##**Hard Skills 
+## **Hard Skills** 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="40"
 style="max- width:100%"></img>
