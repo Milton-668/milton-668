@@ -26,8 +26,7 @@ style="max- width:100%"></img>
 style="max- width:100%"></img>
 <img src="https://www.choczynski.pl/assets/img/spring-boot-icon.svg" alt="SpringBoot" width="40" height="40"
 style="max- width:100%"></img>
-
-======================================================================
+======
 ## **Contact**
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
 <img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-witdh:100%;"></a>
