@@ -1,8 +1,10 @@
 ## Olá, sou Milton Jr 👋
 
++ Apaixonado por tecnologia
 + Desenvolvedor Full Stack Web Java Jr
 + Graduando em Sistemas de Informação 
 + Atualmente participo do BootCamp Generation
++ Apaixonado por tecnologia
 -----------------------------------------------
 ### **Hard Skills** 
 
