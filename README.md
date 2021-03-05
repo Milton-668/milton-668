@@ -10,7 +10,7 @@ style="max- width:100%"></img>
 style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"
 style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Git" width="40" height="40"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Ang" width="40" height="40"
 style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"
 style="max- width:100%"></img>
