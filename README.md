@@ -39,8 +39,11 @@ style="max- width:100%"></img>
 <a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
 
 -------------------------------------------------
+![Milton's github stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true&count_private=true&theme=radical)
 
- ![Milton Jr' Repository's Stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true)
+-------------------------------------------------
+
+ ![Milton' Repository's Stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true)
 
 <!--
 **Milton-668/milton-668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
