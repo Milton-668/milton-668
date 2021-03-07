@@ -37,6 +37,7 @@ style="max- width:100%"></img>
 <a href="https://www.linkedin.com/in/mj77/" target="_blank">
 <img align="center" alt="Milton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-witdh:100%;"></a>
 <a align="center" href="mailto:miltonmjcp@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
+
 -------------------------------------------------
 
  ![Milton Jr' Repository's Stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true)
