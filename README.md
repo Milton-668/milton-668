@@ -43,12 +43,10 @@ style="max- width:100%"></img>
 
 -------------------------------------------------
 
- ![Milton' Repository's Stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true)
  ![Milton Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-668&theme=blue-green)
  
  -------------------------------------------------
  
-  ![Milton Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-668&theme=blue-green)
   
   -----------------------------------------------
   
