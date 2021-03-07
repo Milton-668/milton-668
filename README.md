@@ -48,6 +48,11 @@ style="max- width:100%"></img>
  -------------------------------------------------
  
   ![Milton Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-668&theme=blue-green)
+  
+  -----------------------------------------------
+  
+  ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Milton-668/milton-668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
