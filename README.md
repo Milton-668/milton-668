@@ -45,8 +45,9 @@ style="max- width:100%"></img>
 -------------------------------------------------
 https://github-readme-stats.vercel.app/api/top-langs/?milton-668={milton-668}&theme=blue-green
 
-https://github-readme-stats.vercel.app/api/top-langs/?milton-668={username}&theme=blue-green
+--------------------------------------------------
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={milton-668}&theme=blue-green
 
 
 <!--
