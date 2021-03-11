@@ -44,7 +44,7 @@ style="max- width:100%"></img>
 
 -------------------------------------------------
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-668Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-668&theme=blue-green)
 
 
 https://github-readme-stats.vercel.app/api/top-langs/?milton-668={milton-668}&theme=blue-green
