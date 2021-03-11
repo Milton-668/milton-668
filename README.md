@@ -41,7 +41,9 @@ style="max- width:100%"></img>
 -------------------------------------------------
 ## **Mais Informações**
 ![Milton's github stats](https://github-readme-stats.vercel.app/api?username=milton-668&show_icons=true&count_private=true&theme=radical)
+
 -------------------------------------------------
+https://github-readme-stats.vercel.app/api/top-langs/?milton-668={milton-668}&theme=blue-green
 
 
 
