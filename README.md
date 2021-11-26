@@ -1,8 +1,8 @@
 ##  Olá, sou Milton Jr :octocat:
 
 + :sparkling_heart:	**Apaixonado por tecnologia**
-+ :computer: **Desenvolvedor Full Stack Web Java Jr**
-+ :school: **Cursando Sistemas de Informação - 5° semestre**	
++ :computer: **Desenvolvedor BackEnd Java Jr**
++ :school: **Cursando Sistemas de Informação - 6° semestre**	
 + :computer_mouse: **Formado no BootCamp Dev Full Stack da Generation**
 -----------------------------------------------
 ### **Hard Skills** 
