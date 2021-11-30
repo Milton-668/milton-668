@@ -1,9 +1,9 @@
-##  Olá, sou Milton Jr :octocat:
+##  Olá, sou Milton Jr 
 
-+ :sparkling_heart:	**Apaixonado por tecnologia**
-+ :computer: **Desenvolvedor BackEnd Java Jr**
-+ :school: **Cursando Sistemas de Informação - 6° semestre**	
-+ :computer_mouse: **Formado no BootCamp Dev Full Stack da Generation**
++ **Apaixonado por tecnologia**
++ **Desenvolvedor BackEnd Java Jr**
++ **Cursando Sistemas de Informação - 6° semestre**	
++ **Formado no BootCamp Dev Full Stack da Generation**
 -----------------------------------------------
 ### **Hard Skills** 
 
@@ -14,18 +14,6 @@ style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"
 style="max- width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"
-style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Ang" width="40" height="40"
-style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"
-style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"
-style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"
-style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Type" width="40" height="40"
-style="max- width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bs" width="40" height="40"
 style="max- width:100%"></img>
 <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman" width="40" height="40"
 style="max- width:100%"></img>
