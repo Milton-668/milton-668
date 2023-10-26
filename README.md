@@ -1,7 +1,7 @@
 ##  Olá, sou Milton Jr 
 
 + **Desenvolvedor BackEnd Java Jr**
-+ **Cursando Sistemas de Informação - 8° semestre**	
++ **Formado em Sistemas de Informação**	
 + **Formado no BootCamp Dev Full Stack da Generation**
 -----------------------------------------------
 ### **Hard Skills** 
